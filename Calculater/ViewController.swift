@@ -67,6 +67,7 @@ class ViewController: UIViewController {
             }else {
                 secondoperand = percentoperand
             }
+        jdsgjdksljgkdsjkgjdsgjdksjgls
     
         dotisplaced = false
         
